@@ -70,6 +70,7 @@ To illustrate that, please merge the branch update_script to main: “Cool, all 
 HHHHHHHAAAAAAAA
 
 > CONFLICT (content): Merge conflict in bash/alx
+
 As you can see, you have conflicts between two branches on the same file.
 
 Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
