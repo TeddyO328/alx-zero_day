@@ -1,8 +1,8 @@
 # 0. Create and setup your Git and GitHub account
 
-You will need Git for this project, you might have to install it on your computer if it’s not done yet.
+You will need Git for this project, you might have to [install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git "Title") it on your computer if it’s not done yet.
 
-* Configure your basic info (name, email) on your local machine – they will be part of your commits.  [Tips](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup "Title") On A [Github.com](https://github.com/ "Title"):
+* Configure your basic info (name, email) on your local machine – they will be part of your commits.  [Tips](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup "Title") On [Github.com](https://github.com/ "Title"):
 * Using the graphic interface on the website, create the repository (if it’s not done yet)
 - Name: alx-zero_day
 - Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
