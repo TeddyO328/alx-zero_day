@@ -3,11 +3,11 @@
 You will need Git for this project, you might have to [install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git "Title") it on your computer if it’s not done yet.
 
 * Configure your basic info (name, email) on your local machine – they will be part of your commits.  [Tips](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup "Title") On [Github.com](https://github.com/ "Title"):
-* Using the graphic interface on the website, create the repository (if it’s not done yet)
-        - Name: alx-zero_day
-        - Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
-        - Public repo
-        - No README, .gitignore, or license
+1. Using the graphic interface on the website, create the repository (if it’s not done yet)
+- Name: alx-zero_day
+- Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
+- Public repo
+- No README, .gitignore, or license
 Update your Intranet profile by adding your Github username [here](https://alx-intranet.hbtn.io/users/my_profile "Title") - __if it’s not done, the Checker won’t be able to correct your work__
 
 On your computer, open a terminal and do the following:
